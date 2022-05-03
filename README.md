@@ -1,0 +1,1 @@
+# C-code-to-check-the-number-is-pallindrome
